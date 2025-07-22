@@ -1,6 +1,6 @@
 # 🚗 Simple Login Automation Using Selenium (BMW Style)
 
-![BMW Automation]()
+![BMW Automation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnYzYmU3Y20xYnVybTlsNmswN2UyeDVzbG05c2gzOG5meGlpanY3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AVSl859um5sCA/giphy.gif)
 
 ## 📌 Overview
 
