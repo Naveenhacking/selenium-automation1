@@ -1,6 +1,9 @@
-# 🚗 Simple Login Automation Using Selenium
+# 🚗 Simple Login Automation Using Selenium 
 
 ![BMW Automation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnYzYmU3Y20xYnVybTlsNmswN2UyeDVzbG05c2gzOG5meGlpanY3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AVSl859um5sCA/giphy.gif)
+
+> 🖼️ *BMW GIF above is sourced from [GIPHY](https://giphy.com/gifs/AVSl859um5sCA)  
+> Used under [GIPHY's Terms of Service](https://support.giphy.com/hc/en-us/articles/360020027752) for non-commercial, educational purposes only.*
 
 ## 📌 Overview
 
@@ -55,5 +58,13 @@ pip install selenium
 ## 🔽 Download ChromeDriver (Windows 64-bit)
 
 [![Download ChromeDriver](https://img.shields.io/badge/Download-ChromeDriver_138-blue?logo=googlechrome&style=for-the-badge)](https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/138.0.7204.158/win64/chromedriver-win64.zip)
+---
+
+## 🎨 Media Attribution
+
+- **BMW GIF**: [View on GIPHY](https://giphy.com/gifs/AVSl859um5sCA)  
+- 📄 Licensed for **educational, non-commercial** use under GIPHY guidelines  
+- 🚫 No copyright infringement intended
+
 
 
