@@ -52,11 +52,8 @@ Install Selenium using pip:
 pip install selenium
 
 
-This project is licensed under the **MIT License**.
+## 🔽 Download ChromeDriver (Windows 64-bit)
 
-> You are free to use, modify, and distribute this code with proper attribution.
->  
-> The project is provided "as is", without warranty of any kind.  
->  
-> Educational use only.
+[![Download ChromeDriver](https://img.shields.io/badge/Download-ChromeDriver_138-blue?logo=googlechrome&style=for-the-badge)](https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/138.0.7204.158/win64/chromedriver-win64.zip)
+
 
