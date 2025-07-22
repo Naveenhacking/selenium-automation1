@@ -50,3 +50,13 @@ Install Selenium using pip:
 
 ```bash
 pip install selenium
+
+
+This project is licensed under the **MIT License**.
+
+> You are free to use, modify, and distribute this code with proper attribution.
+>  
+> The project is provided "as is", without warranty of any kind.  
+>  
+> Educational use only.
+
